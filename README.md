@@ -1,7 +1,7 @@
-# nextra-theme-docs
+# nextra-theme-chocolate
 
-A documentation site theme for [Nextra](https://github.com/shuding/nextra).
+A simple fork that removes some of the more opinionated CSS styling choices.
 
-## Example
+## What's Changed
 
-[nextra.vercel.app](https://nextra.vercel.app/)
+- Removed button styling. 
